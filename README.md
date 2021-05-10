@@ -4,7 +4,7 @@
 - Run `python perturbed_images_generation_multiProcess.py --path=./data/scan/ --bg_path=./data/background/`
 
 
-# Details
+# OTHER
 For more information, please enter [url](https://github.com/gwxie/Dewarping-Document-Image-By-Displacement-Flow-Estimation).
 
 Sorry for the late reply.
