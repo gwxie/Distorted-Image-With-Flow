@@ -843,6 +843,11 @@ def multiThread(m, n, img_path_, bg_path_, save_path, save_suffix):
 def xgw(args):
 	path = args.path
 	bg_path = args.bg_path
+	if not os.path.exists(path):
+		raise Exception('-- No path')
+	if not os.path.exists(bg_path):
+		raise Exception('-- No bg_path')	
+		
 	if args.output_path is None:
 		save_path = '/lustre/home/gwxie/data/unwarp_new/train/data1024_greyV2/'
 	else:
