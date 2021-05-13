@@ -868,7 +868,7 @@ def xgw(args):
 	if not os.path.exists(save_path + 'outputs/'):
 		os.makedirs(save_path + 'outputs/')
 
-	save_suffix = args.path if '/' not in args.path else args.path.replace('/', '')
+	save_suffix = str.split(args.path, '/')[-2]
 
 	all_img_path = getDatasets(path)
 	all_bgImg_path = getDatasets(bg_path)
