@@ -5,7 +5,7 @@
 
 # visualization
 
-<img src="https://github.com/gwxie/Distorted-Image-With-Flow/blob/main/output/scan/new_0.png" width="200"/><img src="https://github.com/gwxie/Distorted-Image-With-Flow/blob/main/output/png/new_0_7_curve.png" width="200"/><img src="https://github.com/gwxie/Distorted-Image-With-Flow/blob/main/output/png/new_0_7_fold.png" width="200"/>
+<img src="https://github.com/gwxie/Distorted-Image-With-Flow/blob/main/output/scan/new_0.png" height="200"/><img src="https://github.com/gwxie/Distorted-Image-With-Flow/blob/main/output/png/new_0_7_curve.png" height="200"/><img src="https://github.com/gwxie/Distorted-Image-With-Flow/blob/main/output/png/new_0_7_fold.png" height="200"/>
 
 
 ![origin](https://github.com/gwxie/Distorted-Image-With-Flow/blob/main/output/scan/new_1.png)
