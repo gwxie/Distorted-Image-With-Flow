@@ -4,9 +4,9 @@
 - Run `python perturbed_images_generation_multiProcess.py --path=./scan/new/ --bg_path=./background/ --output_path=./output/`
 
 # visualization
-1 <center class="origin1">
-2     <img src="https://github.com/gwxie/Distorted-Image-With-Flow/blob/main/output/scan/new_0.png" width="200"/><img src="https://github.com/gwxie/Distorted-Image-With-Flow/blob/main/output/png/new_0_7_curve.png" width="200"/><img src="https://github.com/gwxie/Distorted-Image-With-Flow/blob/main/output/png/new_0_7_fold.png" width="200"/>
-3 </center>
+<center class="origin1">
+<img src="https://github.com/gwxie/Distorted-Image-With-Flow/blob/main/output/scan/new_0.png" width="200"/><img src="https://github.com/gwxie/Distorted-Image-With-Flow/blob/main/output/png/new_0_7_curve.png" width="200"/><img src="https://github.com/gwxie/Distorted-Image-With-Flow/blob/main/output/png/new_0_7_fold.png" width="200"/>
+</center>
 
 ![origin](https://github.com/gwxie/Distorted-Image-With-Flow/blob/main/output/scan/new_1.png)
 
