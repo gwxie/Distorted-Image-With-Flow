@@ -5,11 +5,13 @@
 
 # visualization
 
-Origin -> Distorted -> Distorted
+Origin / Distorted / Distorted
 
-<img src="https://github.com/gwxie/Distorted-Image-With-Flow/blob/main/output/scan/new_0.png" height="300"/> <img src="https://github.com/gwxie/Distorted-Image-With-Flow/blob/main/output/png/new_0_7_curve.png" height="300"/> <img src="https://github.com/gwxie/Distorted-Image-With-Flow/blob/main/output/png/new_0_7_fold.png" height="300"/>
+<img src="https://github.com/gwxie/Distorted-Image-With-Flow/blob/main/output/scan/new_0.png" height="300"/>    <img src="https://github.com/gwxie/Distorted-Image-With-Flow/blob/main/output/png/new_0_7_curve.png" height="300"/>    <img src="https://github.com/gwxie/Distorted-Image-With-Flow/blob/main/output/png/new_0_7_fold.png" height="300"/>
 
-<img src="https://github.com/gwxie/Distorted-Image-With-Flow/blob/main/output/scan/new_1.png" height="300"/> <img src="https://github.com/gwxie/Distorted-Image-With-Flow/blob/main/output/png/new_1_7_curve.png" height="300"/> <img src="https://github.com/gwxie/Distorted-Image-With-Flow/blob/main/output/png/new_1_7_fold.png" height="300"/>
+Origin / Distorted / Distorted
+
+<img src="https://github.com/gwxie/Distorted-Image-With-Flow/blob/main/output/scan/new_1.png" height="300"/>  <img src="https://github.com/gwxie/Distorted-Image-With-Flow/blob/main/output/png/new_1_7_curve.png" height="300"/>  <img src="https://github.com/gwxie/Distorted-Image-With-Flow/blob/main/output/png/new_1_7_fold.png" height="300"/>
 
 # OTHER
 For more information, please enter [url](https://github.com/gwxie/Dewarping-Document-Image-By-Displacement-Flow-Estimation).
